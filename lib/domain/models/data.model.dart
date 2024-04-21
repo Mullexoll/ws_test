@@ -1,5 +1,4 @@
-// Define models for parsing JSON response
-import 'package:webspark_test/utils/conver_list_to_matrix.dart';
+import 'package:webspark_test/utils/convert_list_to_matrix.dart';
 
 class CellData {
   final String id;
